@@ -1,0 +1,90 @@
+body{
+    background: #DCE35B;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #45B649, #DCE35B);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #45B649, #DCE35B); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+h1{
+    text-align: center;
+    }
+
+
+    div{
+        background-color: lightseagreen;
+        height: 19rem;
+        width: 14rem;
+        margin-bottom: 1rem;
+        border-radius: 15px;
+        }
+
+        img{
+            height: 10rem;
+            width: 14rem;
+            border-radius: 15px 15px 0px 0px;
+        }
+
+
+        .bottomR{
+            height: 11rem;
+            text-align: center;
+            margin-top: -1rem;
+        }
+
+
+
+
+        .snake{
+            position: absolute;
+            top: 4.25rem;
+            left: 16rem;
+            margin-left: 25rem;
+        }
+
+
+        .croc{
+            position: absolute;
+            top: 4.25rem;
+            left: 31rem;
+            font-size: 0.91em;
+            margin-left: 30rem;
+        }
+
+
+        .lizard{
+            position: absolute;
+            top: 26rem;
+            left: 1rem;
+            margin-left: 20rem;
+        }
+
+
+        .bts{
+            position: absolute;
+            top: 26rem;
+            left: 16rem;
+            font-size: 0.875em;
+            margin-left: 25rem;
+        }
+
+
+        .cham{
+            position: absolute;
+            top: 26rem;
+            left: 31rem;
+            margin-left: 30rem;
+        }
+
+        .turtle{
+            margin-left: 20rem;
+        }
+
+
+        button{
+            border-radius: 15px;
+            background-color: orange;
+            color: snow;
+            height: 40px;
+            width: 100px;
+        }

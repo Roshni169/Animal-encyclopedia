@@ -1,0 +1,81 @@
+body{
+    background: #FDC830;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #F37335, #FDC830);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #F37335, #FDC830); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+
+
+h1{
+    text-align: center;
+    }
+
+div{
+background-color: aqua;
+height: 19rem;
+width: 14rem;
+max-width: 14rem;
+max-height: 19rem;
+margin-bottom: 1rem;
+border-radius: 15px;
+}
+
+
+
+.bottom{
+height: 6rem;
+text-align: center;
+margin-top: 1rem;
+}
+
+
+
+
+img{
+width: 14rem;
+height: 15rem;
+border-radius: 15px 15px 0em 0em;
+}
+
+p.dotted{border-style: solid}
+
+
+
+.bird{
+    position: absolute;
+    top: 4.25rem;
+    left: 36rem;
+}
+
+
+
+.fish{
+    position: absolute;
+    top: 4.25rem;
+    left: 18rem;
+}
+
+.reptile{
+    position: absolute;
+    top: 4.25rem;
+    left: 54rem;
+    font-size: 0.95em;
+}
+
+.amphibian{
+    position: absolute;
+    top: 4.25rem;
+    left: 72rem;
+    font-size: 0.89em;
+}
+
+
+button{
+    background-color: green;
+    color: lavender;
+    border-radius: 15px;
+    height: 30px;
+    width: 100px;
+}

@@ -1,0 +1,69 @@
+li{
+    list-style-type: none;
+     }   
+    
+    img{
+    position: absolute;
+    bottom: 0.5rem;
+    margin-left: 13cm;
+    }
+    
+    .div1{
+    background-color: orangered;
+    color: lightblue;
+    font-size: large;
+    }
+    
+    .div2{
+    background-color: blue;
+    color: white;
+    font-size: large;
+    }
+    
+    .div3{
+    background-color: lightgreen;
+    color: brown;
+    margin-left: 13cm;
+    position: absolute;
+    top: 4rem;
+    font-size: large;
+    }
+    
+    .div4{
+    background-color: magenta;
+    position: absolute;
+    right: 1rem;
+    top: 5rem;
+    color: palegoldenrod;
+    font-size: large;
+    }
+    
+    .div5{
+    background-color: yellow;
+    color: teal;
+    font-size: large;
+    position: absolute;
+    right: 1rem;
+    top: 12.5cm;
+    }
+    
+    body{
+        background-color: aqua;
+        }
+    
+    h1{
+        color: pink;
+    
+    text-align: center;
+        }
+    
+    div{
+    background-color: white;
+    color: black;
+    font-size: medium;
+    width: 10cm;
+    text-align: center;
+    height: 6.5cm;
+    margin-bottom: 10rem;
+    }
+    

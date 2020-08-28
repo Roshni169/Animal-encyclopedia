@@ -1,0 +1,129 @@
+body{
+    background: #ff4b1f;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #1fddff, #ff4b1f);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #1fddff, #ff4b1f); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+
+
+h1{
+    text-align: center;
+    }
+
+
+    div{
+        background-color: tomato;
+        height: 19rem;
+        width: 14rem;
+        margin-bottom: 1rem;
+        border-radius: 15px;
+        }
+
+        img{
+            height: 8rem;
+            width: 14rem;
+            border-radius: 15px 15px 0px 0px;
+        }
+
+
+
+
+        .bottomA{
+            height: 5rem;
+            text-align: center;
+            margin-top: -1rem;
+        }
+
+
+        .frog{
+            font-size: 0.9em;
+            margin-left: 20rem;
+        }
+
+
+
+        .sala{
+            position: absolute;
+            top: 4.25rem;
+            left: 16rem;
+            font-size: 0.85rem;
+            margin-left: 25rem;
+        }
+
+
+
+
+        .cae{
+            position: absolute;
+            top: 4.25rem;
+            left: 31rem;
+            font-size: 0.9rem;
+            margin-left: 30rem;
+        }
+
+
+        .new{
+            position: absolute;
+            top: 25rem;
+            left: 1rem;
+            margin-left: 20rem;
+        }
+
+
+        .toad{
+            position: absolute;
+            top: 25rem;
+            left: 16rem;
+            margin-left: 25rem;
+        }
+
+
+        .newt{
+            position: absolute;
+            top: 25rem;
+            left: 31rem;
+            margin-left: 30rem;
+        }
+
+
+
+
+button{
+    border-radius: 15px;
+    background-color: rgb(39, 9, 121);
+    color: white;
+    height: 30px;
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

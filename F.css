@@ -1,0 +1,87 @@
+body{
+    background: #00F260;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+
+}
+
+
+
+
+
+h1{
+    text-align: center;
+    }
+
+
+    div{
+        background-color: orange;
+        height: 19rem;
+        width: 14rem;
+        margin-bottom: 1rem;
+        border-radius: 15px;
+        }
+
+        img{
+            height: 10rem;
+            width: 14rem;
+            border-radius: 15px 15px 0px 0px;
+        }
+
+        .bottomF{
+            height: 5rem;
+            text-align: center;
+            margin-top: -1rem;
+        }
+
+
+
+        .seaH{
+            position: absolute;
+            top: 4.5rem;
+            left: 16rem;
+            margin-left: 25rem;
+        }
+
+        .jellyfish{
+            position: absolute;
+            top: 4.5rem;
+            left: 31rem;
+            margin-left: 30rem;
+        }
+
+        .stingR{
+            position: absolute;
+            left: 1rem;
+            font-size: 0.91em;
+            margin-left: 20rem;
+        }
+
+        .star{
+            position: absolute;
+            left: 16rem;
+            font-size: 0.91em;
+            margin-left: 25rem;
+        }
+
+        .frog{
+            position: absolute;
+            left: 31rem;
+            margin-left: 30rem;
+        }
+
+        .sharks{
+            top: 4.5rem;
+            left: 1rem;
+            margin-left: 20rem;
+        }
+
+        button{
+            background-color: lightskyblue;
+            color: purple;
+            border-radius: 15px;
+            height: 30px;
+            width: 100px;
+        }

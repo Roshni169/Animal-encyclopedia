@@ -1,0 +1,95 @@
+body{
+    background: #34e89e;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0f3443, #34e89e);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0f3443, #34e89e); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+}
+
+
+h1{
+    text-align: center;
+    }
+
+
+    div{
+        background-color: plum;
+        height: 19rem;
+        width: 14rem;
+        margin-bottom: 1rem;
+        border-radius: 15px;
+        }
+
+        img{
+            height: 10rem;
+            width: 14rem;
+            border-radius: 15px 15px 0px 0px;
+        }
+
+
+        .bottomB{
+            height: 5rem;
+            text-align: center;
+            margin-top: -1rem;
+        }
+
+
+        .parrot{
+            position: absolute;
+            top: 4.5rem;
+            left: 16rem;
+            font-size: 0.75em;
+            margin-left: 25rem;
+        }
+
+        .eagle{
+            position: absolute;
+            top: 4.5rem;
+            left: 31rem;
+            font-size: 0.9em;
+            margin-left: 30rem;
+        }
+
+
+        .robin{
+            position: absolute;
+            left: 1rem;
+            top: 24em;
+            margin-left: 20rem;
+        }
+    
+
+
+        .duck{
+            position: absolute;
+            top: 24rem;
+            left: 16rem;
+            font-size: 0.95em;
+            margin-left: 25rem;
+        }
+
+        .toucan{
+            position: absolute;
+            top: 24rem;
+            left: 31rem;
+            margin-left: 30rem;
+        }
+
+
+        .ostrich{
+            position: absolute;
+            top: 4.5rem;
+            left: 1rem;
+            font-size: 0.9em;
+            margin-left: 20rem;
+        }
+
+        button{
+            border-radius: 15px;
+            background-color: rgb(231, 220, 69);
+            height: 30px;
+            width: 100px;
+        }
+
+       
+

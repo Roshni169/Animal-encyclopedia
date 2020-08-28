@@ -1,0 +1,86 @@
+body{
+    background: #4e54c8;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #8f94fb, #4e54c8);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #8f94fb, #4e54c8); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+
+
+h1{
+    text-align: center;
+    }
+
+
+
+div{
+    background-color: yellowgreen;
+    height: 19rem;
+    width: 14rem;
+    margin-bottom: 1rem;
+    border-radius: 15px;
+    }
+
+.bottomM{
+    height: 9rem;
+    text-align: center;
+    font-size: 0.97em;
+    margin-top: -1rem;
+}
+
+img{
+    height: 10rem;
+    width: 14rem;
+    border-radius: 15px 15px 0px 0px;
+}
+
+
+
+.lemur{
+    position: absolute;
+    top: 4.25rem;
+    left: 15rem;
+    margin-left: 25rem;
+}
+
+
+.tiger{
+    position: absolute;
+    top: 4.25rem;
+    left: 30rem;
+    margin-left: 30rem;
+}
+
+
+
+.dog{
+    position: absolute;
+    left: 0.25rem;
+    margin-left: 20rem;
+}
+
+.batty{
+    position: absolute;
+    left: 15rem;
+    margin-left: 25rem;
+}
+
+.horse{
+    position: absolute;
+    left: 30rem;
+    margin-left: 30rem;
+}
+
+
+.platypus{
+    margin-left: 20rem;
+}
+
+button{
+ background-color: blue;
+ color: lavenderblush;
+ border-radius: 15px;
+ height: 30px;
+ width: 100px;
+}
+
